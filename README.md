@@ -13,8 +13,10 @@ Initially, this project was intended as a collection of personal and private not
 </p>
 
 ~~I'm currently working on a personal project~~ [Chicken Invaders Classic](https://scratch.mit.edu/projects/666461150/) on a **Scratch.mit.edu** platform.
-Development postponed to the end of 2025.
+
+Development postponed to the end of 2025.<br>
 **Progress: 50%, 50% to go** - Priority features to integrate:
+
 - Extend cutscenes for every 10th wave
 - Create assets for purple hens
 - Implement new functions for purple hens
