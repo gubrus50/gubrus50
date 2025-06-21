@@ -4,7 +4,7 @@
 
 I’m currently developing **django5-tutorial**, a private project that leverages modern full-stack development solutions to build a scalable, efficient, and secure web application.
 
-**Progress: 75%, 25% to go** - Integrating Payment System on an international scale, and online communication with registered users in real-time using ASGI + webSocket connections.
+**Progress: 90%, 10% to go** - Integrated custom Multi-Factor Authentication (OTPs via Mobile App, (Zoho) Email, (Twilio) Mobile phone). Polishing up the documentation, and working on the last step - users' removal with GDPR compliance (within 30-90 days) to remove unused data such as a stripe account used for the payment intents.
 
 Initially, this project was intended as a collection of personal and private notes. However, as my ventures have expanded in scope, I am beginning to reassess its potential. Given the depth of the expertise and knowledge accumulated over half a decade of dedicated, passion-driven software craftsmanship, I am now considering transforming it into a book—either later this year or the next.
 
