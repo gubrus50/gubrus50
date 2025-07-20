@@ -27,5 +27,6 @@ Development postponed to the end of 2025.<br>
 - Add coins and general game economy
 - Share monthly highest score with other scratches
 - Store + customize spacecraft (player - main character)
-- Christmas season theme
-- Implement all bosses
+- Include Christmas season theme
+- Implement all bosses (3/10)
+- Max levels 100 (+1 secret) 
