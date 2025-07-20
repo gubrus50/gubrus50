@@ -10,6 +10,8 @@ I’m currently developing **django5-tutorial**, a private project that leverage
 
 Initially, this project was intended as a collection of personal and private notes. However, as my ventures have expanded in scope, I am beginning to reassess its potential.
 
+<hr>
+
 <p align="left">
 <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_blue_halloween.png">  <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_purple_halloween.png">  <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_indigo_halloween.png">  <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_pink_halloween.png">
 </p>
