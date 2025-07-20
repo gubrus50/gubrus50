@@ -26,6 +26,6 @@ Development postponed to the end of 2025.<br>
 - Implement new functions for purple hens
 - Add coins and general game economy
 - Share monthly highest score with other scratches
-- Store + customize rocket(s)
+- Store + customize spacecraft (player - main character)
 - Christmas season theme
 - Implement all bosses
