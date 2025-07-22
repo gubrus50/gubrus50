@@ -6,7 +6,7 @@ I’m currently developing **django5-tutorial**, a private project that leverage
 
 **Progress: 99%, 1% to go** - ~~Integrated custom Multi-Factor Authentication (OTPs via Mobile App, (Zoho) Email, (Twilio) Mobile phone). Polishing up the documentation, and working on the last step - users' removal with GDPR compliance (within 30-90 days) to remove unused data such as a stripe account used for the payment intents.~~
 
-1% = Add celery + flower + django-celery-results - to monitor scheduled tasks, and deployment (Check if the application works live in production)
+1% = ~~Add celery + flower + django-celery-results - to monitor scheduled tasks,~~ and deployment (Check if the application works live in production)
 
 Initially, this project was intended as a collection of personal and private notes. However, as my ventures have expanded in scope, I am beginning to reassess its potential.
 
