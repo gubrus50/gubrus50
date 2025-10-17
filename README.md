@@ -24,6 +24,9 @@ Development postponed to the end of 2025.<br>
 - Extend cutscenes for every 10th wave
 - ~~Create assets for 360 chickens~~
 - ~~Implement new functions for 360 chickens~~
+
+ <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_blue360.png">
+
 - Add coins and general game economy
 - Share monthly highest score with other scratches
 - Store + customize spacecraft (player - main character)
