@@ -22,8 +22,8 @@ Development postponed to the end of 2025.<br>
 **Progress: 50%, 50% to go** - Priority features to integrate:
 
 - Extend cutscenes for every 10th wave
-- Create assets for purple hens
-- Implement new functions for purple hens
+- ~~Create assets for 360 chickens~~
+- ~~Implement new functions for 360 chickens~~
 - Add coins and general game economy
 - Share monthly highest score with other scratches
 - Store + customize spacecraft (player - main character)
