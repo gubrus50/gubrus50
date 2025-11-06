@@ -27,7 +27,7 @@ Development postponed to the end of 2025.<br>
  <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_blue360.png">
 
 - Extend cutscenes for every 10th wave
-- Add coins and general game economy
+~~- Add coins and general game economy~~
 - Share monthly highest score with other scratches
 - Store + customize spacecraft (player - main character)
 - Include Christmas season theme
