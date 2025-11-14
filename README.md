@@ -29,7 +29,7 @@ Development postponed to the end of 2025.<br>
 
 - Extend cutscenes for every 10th wave
 - Share monthly highest score with other scratches
-- Store + customize spacecraft (player - main character)
+- ~~Store + customize spacecraft (player - main character)~~
 - Include Christmas season theme
 - Implement all bosses (3/10)
 - Max levels 100 (+1 secret) 
