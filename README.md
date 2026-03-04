@@ -19,7 +19,7 @@ Initially, this project was intended as a collection of personal and private not
 ~~I'm currently working on a personal project~~ [Chicken Invaders Classic](https://scratch.mit.edu/projects/666461150/) on a **Scratch.mit.edu** platform.
 
 ~~Development postponed to the end of 2025.~~ <br>
-**Progress: 80% done, 20% to go** - ~~Priority features to integrate:~~
+**Progress: 90% done, 10% to go** - ~~Priority features to integrate:~~
 All priority features are integrated since Feb/2026
 
 - ~~Create assets for 360 chickens~~
