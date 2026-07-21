@@ -2,7 +2,10 @@
 
 **`Open-source Enthusiast (Developer/Artist/Musician)`**
 
-I’m currently developing **django5-tutorial**, a private project that leverages modern full-stack development solutions to build a scalable, efficient, and secure web application.
+I am currently working on a private project **taroweb** tailwind based web application for booking and managing tarot readings, build upon the **django5-turoail**. (21/Jul/2026)
+**Progress: 50%, 50% to go**
+
+~~I’m currently developing **django5-tutorial**~~, a private project that leverages modern full-stack development solutions to build a scalable, efficient, and secure web application.
 
 **Progress: 99%, 1% to go** - ~~Integrated custom Multi-Factor Authentication (OTPs via Mobile App, (Zoho) Email, (Twilio) Mobile phone). Polishing up the documentation, and working on the last step - users' removal with GDPR compliance (within 30-90 days) to remove unused data such as a stripe account used for the payment intents.~~
 
