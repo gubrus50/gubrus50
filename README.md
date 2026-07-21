@@ -19,18 +19,18 @@ Initially, this project was intended as a collection of personal and private not
 ~~I'm currently working on a personal project~~ [Chicken Invaders Classic](https://scratch.mit.edu/projects/666461150/) on a **Scratch.mit.edu** platform.
 
 ~~Development postponed to the end of 2025.~~ <br>
-**Progress: 90% done, 10% to go** - ~~Priority features to integrate:~~
+**Progress: Finished demo** (can't implement all levels and bosses due to lack of space)
 All priority features are integrated since Feb/2026
 
-- ~~Create assets for 360 chickens~~
-- ~~Implement new functions for 360 chickens~~
-- ~~Add coins and general game economy~~
+- ~~Create assets for 360 chickens~~ (implemented)
+- ~~Implement new functions for 360 chickens~~ (implemented)
+- ~~Add coins and general game economy~~ (implemented)
   
  <img src="https://github.com/gubrus50/gubrus50/blob/main/chickens/%23chicken_blue360.png">
 
-- ~~Extend cutscenes for every 10th wave~~ (discluded due to lack of available space)
-- ~~Share monthly highest score with other scratches~~
-- ~~Store + customize spacecraft (player - main character)~~
+- ~~Extend cutscenes for every 10th wave~~ (implemented)
+- ~~Share monthly highest score with other scratches~~ (implemented)
+- ~~Store + customize spacecraft (player - main character)~~ (implemented)
 - ~~Include Christmas season theme~~ (discluded due to lack of available space)
-- ~~Implement all bosses (10/10)~~
-- Max levels ~~100~~ 110 (+1 secret) 
+- ~~Implement all bosses (10/10)~~ (included only 3, due to lack of available space)
+- ~~Max levels 110 (+1 secret)~~ (currently 34 + secret, due to lack of available space)
