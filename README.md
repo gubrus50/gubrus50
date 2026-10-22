@@ -6,6 +6,8 @@
 I am currently working on a private project **taroweb** tailwind-based web application for booking and managing tarot readings, build upon the **django5-tutorial**.<br>
 **Progress: 50%, 50% to go**
 
+<img src="https://github.com/gubrus50/gubrus50/blob/main/taroweb/readings_page.png">
+
 <hr>
 
 ~~I’m currently developing **django5-tutorial**~~, a private project that leverages modern full-stack development solutions to build a scalable, efficient, and secure web application.
